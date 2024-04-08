@@ -1,0 +1,13 @@
+{
+  "name": "prmodule2",
+  "version": "1.0.0",
+  "description": "TTC Global's repository for Playwright trainings",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.5"
+  }
+}
